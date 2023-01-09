@@ -1,1 +1,1 @@
-Еhis code was developed while performing a training task
+This code was developed while performing a training task
