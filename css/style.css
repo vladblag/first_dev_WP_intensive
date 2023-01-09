@@ -321,34 +321,35 @@ h2.title {
     color: #4A4A4A;
 }
 
-.footer {
+footer {
     background: #1A1A1A;
     min-height: 169px;
     padding: 57px 0 69px 0;
 }
 
-.footer .footer_data_wrapper {
+.info {
     margin: 0 auto;
+    width: 377px;
     text-align: center;
-    width: 407px;
-    height: 43px;   
+    color: #888888;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 21px;
+}
+
+.footer a {
+    color: #888888;
     font-family: 'Roboto';
-    font-style: normal;
     font-weight: 300;
     font-size: 15px;
     line-height: 21px;
-    color: #888888;
+    text-decoration: none;
 }
 
-.footer .footer_data_wrapper .link_1 {
-    display: block;
+.underline {
     text-decoration: underline;
 }
-
 a:link, a:visited {
     color: #888888;
-}
-
-div > span {
-     margin: 0 5px;
 }
